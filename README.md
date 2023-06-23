@@ -5,7 +5,7 @@
 ## Запуск
 
 ```bash
-git clone https://github.com/4group192/loc-extr.git
+git clone https://github.com/DAAksenov/loc-extr-main.git
 ```
 ```bash
 cd ./loc-extr-main/
